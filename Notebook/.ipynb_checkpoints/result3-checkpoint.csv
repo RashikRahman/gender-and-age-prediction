@@ -1,0 +1,4 @@
+model,best_score,best_params
+RANDOM_FOREST,0.7675266404935502,"{'n_estimators': 160, 'random_state': 11}"
+LOGISTIC_REGRESSION,0.7401383436156291,"{'C': 10.0, 'max_iter': 5000, 'solver': 'lbfgs'}"
+SVM,0.7184520471116097,{'C': 7.0}

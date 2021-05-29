@@ -1,0 +1,2 @@
+model,best_score,best_params
+RANDOM_FOREST,0.7698635258926902,"{'n_estimators': 230, 'random_state': 11}"
