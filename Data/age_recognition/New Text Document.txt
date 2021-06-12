@@ -1,0 +1,4 @@
+young = 6-20
+middle age = 25-30
+ekder = 42-48
+old = 60-98
